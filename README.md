@@ -1,4 +1,5 @@
-### Hi there 👋
+### Rodrigo Garcia
+I am a sophomore computer science student at Tec de Monterrey. I'm interested in Web Development, Machine Learning and Competitive Programming.
 
 <!--
 **RodrigoGarciaT/RodrigoGarciaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Rodrigo Garcia
+# Rodrigo Garcia
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow_me-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/rodrigo-garcia-736514265/)
 ## Who am I?
 I am a sophomore computer science student at Tec de Monterrey. I'm interested in Web Development, Machine Learning and Competitive Programming.
